@@ -1,0 +1,13 @@
+collections
+kagglehub
+keras_core
+keras_nlp
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+tensorflow
+textblob
+wordcloud
+zipfile
